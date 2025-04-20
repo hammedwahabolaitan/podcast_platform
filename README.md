@@ -38,7 +38,7 @@ A RESTful API for a podcast platform built with Node.js, Express, and MySQL.
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/podcast-platform-api.git
+   git clone https://github.com/hammedwahabolaitan/podcast_platform.git
    cd podcast-platform-api
    \`\`\`
 
